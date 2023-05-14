@@ -1,6 +1,31 @@
-# bar-code
 
-This template should help get you started developing with Vue 3 in Vite.
+
+# bar-code the QR Code Generator
+
+This is a simple app that generates a QR code from user input, built using the most modern stack with Vue.js.
+
+## Technologies Used
+
+- Vue3 - the latest version of Vue
+- Vite - a build tool and development server that's focused on speed and efficiency
+- TypeScript - to catch many common errors at compile-time, making development faster and more efficient
+- Pinia - a new store that comes with Vue3, allowing easier state management with the support of the composition API
+- Vitest - an easy to set up and fast testing framework that utilizes the power of Vite and simplicity of Jest
+- Vuetify - a UI library that helps to build reliable material design interfaces
+
+## Features
+
+- Fast, responsive, testable, and modern
+
+## Weaknesses
+
+- Vuetify may be reliable, good-looking, and functional, but it restricts the design pattern to material and is not very good with Vitest and TypeScript.
+
+## To Do
+
+- Cover all the components with unit tests
+- Build a good structure to store types and interfaces.
+
 
 ## Recommended IDE Setup
 
